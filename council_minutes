@@ -1,0 +1,16 @@
+Commands
+$ pdftotext cm15_nov2.pdf   
+$ pdftotext cm15_oct5.pdf    
+$ pdftotext cm15_sept8.pdf  
+$ pdftotext cm15_oct19.pdf   
+$ pdftotext cm15_sept21.pdf 
+            NOTE: Left out Aug. 17 since school started after
+$ cat cm15_sept8.txt cm15_sept21.txt cm15_oct5.txt cm15_oct19.txt cm15_nov2.txt > all_minutes.txt  
+            NOTE: Combined minutes by date
+$ open all_minutes.txt
+
+Keyword searchs
+race, racism, discrimination, blacks, racial, students, discrimination, race matters, task force
+
+Memo
+Throughout the semester, representatives from Race Matters raised concerns about the ongoing problem of race relations in Columbia as well as the city's general lack of progress in improving the issue. These public comments seemed to spur discussion among the Council throughout the semester, and several members expressed gratitude for the work and efforts of Race Matters. In reviewing the city's Task Force on Community Violence report, council members discussed several ways of improving race relations, such as addressing the lack of diversity in the police department and adding additional funds for the police department's community outreach programs. Events of the semester seemed to inspire self-reflection as well: One member said he had an "epiphany" about discrimination in Columbia and nationwide and had begun educating himself on the problem; another member said he hoped to attend a National League of City conference on racial equality and suggested the Council spend more time discussing the city’s racial divide, including distrust of police within minority communities. In general, the Council seemed to feel more improvement was necessary.
